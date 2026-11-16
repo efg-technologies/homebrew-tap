@@ -1,8 +1,8 @@
 class Sim < Formula
   desc "Next-generation Vim in Rust that shows even what is hidden"
   homepage "https://github.com/efg-technologies/sim"
-  url "https://github.com/efg-technologies/sim/releases/download/v0.2.1/sim-0.2.1.tar.gz"
-  sha256 "0b15b291cf84e7b17fd0e1e6e6117fac39dd59c50165b189e1116ab979eabe08"
+  url "https://github.com/efg-technologies/sim/releases/download/v0.3.0/sim-0.3.0.tar.gz"
+  sha256 "9bc74a9c4b817166a181f75e89c5823e869d9f85807670bef8ea28f66b477f22"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/efg-technologies/sim.git", branch: "main"
 
